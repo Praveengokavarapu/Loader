@@ -90,6 +90,8 @@ const LoadingComponent = ({ percentage, onStart, onPause }) => {
         </button>
 
       </div>
+
+      
       
     </div>
   );
